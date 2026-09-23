@@ -1,0 +1,12 @@
+.pytest_cache
+__pycache__
+*.pyc
+shots
+_backup*
+_extract
+_magicpath*
+_deploy_pack
+tests_browserstack
+log
+*.tgz
+.git
